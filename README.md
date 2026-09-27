@@ -1,16 +1,18 @@
-## Hi there 👋
+# I'm Ilgiz Satkynov
+> Computer Science student @ De Anza College, California
 
-<!--
-**satkynovilgiz/satkynovilgiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- AI Tutor @ **xAI (Grok)** — working on Kyrgyz language AI
+- Previously **SWE Intern @ Microsoft**
+- Previously **Cloud Infrastructure Intern @ Google Cloud**
+- Building software, AI projects, and startups
 
-Here are some ideas to get you started:
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=satkynovilgiz&theme=github_dark&hide=contribs&show_icons=true" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satkynovilgiz&theme=github_dark&layout=compact" />
+</a>
+
+<br/>
+<br/>
