@@ -1,4 +1,4 @@
-# yo, I'm Ilgiz 👋
+# yo,  I'm Ilgiz 👋
 
 > CS student @ De Anza College, California  
 > building stuff with AI, cloud, and way too much caffeine ☕️
