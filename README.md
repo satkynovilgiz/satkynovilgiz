@@ -1,10 +1,13 @@
-# I'm Ilgiz Satkynov
-> Computer Science student @ De Anza College, California
+# hey, I'm Ilgiz 👋
 
-- AI Tutor @ **xAI (Grok)** — working on Kyrgyz language AI
-- Previously **SWE Intern @ Microsoft**
-- Previously **Cloud Infrastructure Intern @ Google Cloud**
-- Building software, AI projects, and startups
+> CS student @ De Anza College  
+> I build AI, cloud, and software stuff — sometimes it even works 😭
+
+- 🤖 AI Tutor @ **xAI (Grok)** — working on Kyrgyz language AI
+- 💻 Ex-SWE Intern @ **Microsoft**
+- ☁️ Ex-Cloud Infrastructure Intern @ **Google Cloud**
+- 🚀 Building startups + open-source projects
+- 🌎 originally from Kyrgyzstan, now building in California
 
 <a href="">
   <img align="center"
@@ -17,3 +20,5 @@
 
 <br/>
 <br/>
+
+> currently somewhere between `git commit` and `why is this broken`
