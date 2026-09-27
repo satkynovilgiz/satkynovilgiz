@@ -1,4 +1,4 @@
-# hey, I'm Ilgiz 
+# hey, I'm Ilgiz 👋
 
 > CS student @ De Anza College  
 > I build AI, cloud, and software stuff — sometimes it even works 😭
