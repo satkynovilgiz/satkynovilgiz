@@ -1,13 +1,13 @@
-# hey, I'm Ilgiz 👋
+# yo, I'm Ilgiz 👋
 
-> CS student @ De Anza College  
-> I build AI, cloud, and software stuff — sometimes it even works 😭
+> CS student @ De Anza College, California  
+> building stuff with AI, cloud, and way too much caffeine ☕️
 
-- 🤖 AI Tutor @ **xAI (Grok)** — working on Kyrgyz language AI
-- 💻 Ex-SWE Intern @ **Microsoft**
-- ☁️ Ex-Cloud Infrastructure Intern @ **Google Cloud**
-- 🚀 Building startups + open-source projects
-- 🌎 originally from Kyrgyzstan, now building in California
+- 🤖 AI Tutor @ **xAI (Grok)** — teaching AI how to work with Kyrgyz
+- 💻 Previously **SWE Intern @ Microsoft**
+- ☁️ Previously **Cloud Infrastructure Intern @ Google Cloud**
+- 🚀 Building startups, AI projects, and random ideas that somehow turn into repos
+- 🧠 Currently into AI, backend, cloud infrastructure, and open source
 
 <a href="">
   <img align="center"
@@ -21,4 +21,4 @@
 <br/>
 <br/>
 
-> currently somewhere between `git commit` and `why is this broken`
+> probably debugging something rn.
