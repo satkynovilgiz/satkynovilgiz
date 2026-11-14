@@ -1,5 +1,5 @@
 # I'm Ilgiz Satkynov
-> www.satkynovilgiz.com
+> satkynovilgiz.com
 
 - AI Tutor at **xAI (Grok)**
 - Former SWE Intern at **Microsoft**
