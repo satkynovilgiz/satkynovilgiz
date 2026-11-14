@@ -1,5 +1,5 @@
 # I'm Ilgiz Satkynov
-> Computer Science student @ De Anza College, California
+> www.satkynovilgiz.com
 
 - AI Tutor at **xAI (Grok)**
 - Former SWE Intern at **Microsoft**
