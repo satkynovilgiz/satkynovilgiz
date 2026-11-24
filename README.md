@@ -1,7 +1,7 @@
 ## hey, i'm Ilgiz.
 
 I build things I wish existed.  
-Sometimes useful. Always a learning experience.
+Then spend the weekend figuring out why they don't work.
 
 [website ↗](https://www.satkynovilgiz.com) &nbsp; · &nbsp; [linkedin ↗](https://www.linkedin.com/in/ilgizsatkynov)
 
