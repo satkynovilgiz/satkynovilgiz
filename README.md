@@ -1,9 +1,9 @@
-# I'm Ilgiz Satkynov
+# Hey Im Ilgiz :)
 > www.satkynovilgiz.com
 
 - AI Tutor at **xAI (Grok)**
 - Former SWE Intern at **Microsoft**
-- Former Cloud Infrastructure Intern at **Google Cloud**
+- Cloud Engineering Trainee at **Google ☁️**
 
 <a href="">
   <img align="center"
